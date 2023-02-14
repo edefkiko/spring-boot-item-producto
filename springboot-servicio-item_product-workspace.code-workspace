@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "springboot-servicio-item"
+		},
+		{
+			"path": "springboot-servicio-productos"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
