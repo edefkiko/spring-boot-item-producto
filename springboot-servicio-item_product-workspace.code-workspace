@@ -5,9 +5,16 @@
 		},
 		{
 			"path": "springboot-servicio-productos"
+		},
+		{
+			"path": "springboot-app-eureka"
+		},
+		{
+			"name": "springboot-servicio-zuul-server",
+			"path": "springboot-servicio-zuul-server"
 		}
 	],
 	"settings": {
-		"java.configuration.updateBuildConfiguration": "interactive"
+		"java.configuration.updateBuildConfiguration": "automatic"
 	}
 }
